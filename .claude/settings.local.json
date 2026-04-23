@@ -1,0 +1,11 @@
+{
+  "permissions": {
+    "allow": [
+      "WebFetch(domain:api.anthropic.com)",
+      "Bash(gunzip -c \"C:/Users/Tenon/.claude/projects/C--Users-Tenon-dev-Dashboard/0a04dfcb-99ac-497b-a4d2-70e14ddb05af/tool-results/webfetch-1776905914133-a01vi2.bin\")",
+      "Bash(npm run *)",
+      "Bash(gh auth *)",
+      "Bash(git add *)"
+    ]
+  }
+}
